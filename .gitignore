@@ -1,0 +1,8 @@
+.DS_Store
+*.iso
+*.vdi
+*.qcow2
+*.utm
+*.pdf
+LINKEDIN_POST.md
+QUICK_START_GUIDE.md
